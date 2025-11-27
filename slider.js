@@ -1,6 +1,4 @@
 
-and paste the entire script below:
-
 ```javascript
 /*!
  slider.js — Multi-instance Blogger slider
